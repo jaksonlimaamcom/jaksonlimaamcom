@@ -1,6 +1,6 @@
 - 👋 Hi, I’m: Jakson Lima
 - 👀 I’m interested in: Kubernetes, Java, ReactJs.
-- 🌱 I’m currently learning: Angular.
+- 🌱 I’m currently learning: Inglês, Angular.
 - 💞️ I’m looking to collaborate on: Kubernetes, Java, ReactJs.
 - 📫 How to reach me: (45) 99987-0206
 

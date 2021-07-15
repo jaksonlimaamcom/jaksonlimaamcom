@@ -1,6 +1,6 @@
 - 👋 Oi eu sou: Jakson Lima
-- 👀 Estou interessado: Kubernetes, Java, ReactJs, Inglês, Angular.
-- 🌱 Atualmente estou aprendendo: Inglês, Angular.
+- 👀 Estou interessado: Kubernetes, Java, ReactJs, Inglês.
+- 🌱 Atualmente estou aprendendo: Inglês, NextJs.
 - 💞️ Estou procurando colaborar com o: Kubernetes, Java, ReactJs.
 - 📫 Como me encontrar: (45) 99987-0206, jaksonsneider@gmail.com.
 - 📫 Portfólio: https://jaksonlima.github.io
